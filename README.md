@@ -27,5 +27,5 @@ Built with **Vite**, **React**, **TypeScript**, **Tailwind CSS**, and **shadcn-u
 
 **Clone the repository**
 ```sh
-git clone <YOUR_GIT_URL>
-cd <YOUR_PROJECT_NAME>
+git clone <https://github.com/muteebdeva/muteeb-dev-portfolio>
+cd <muteeb-dev-portfolio>
